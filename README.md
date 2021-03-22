@@ -11,7 +11,7 @@ Data analyst with Programming, Machine Learning, Statistics, and Visualization s
 # Find me around the web 🌎:
 ---
 - Sharing updates on [LinkedIn](http://www.linkedin.com/in/sunnyxili2019) 💼
-- Reaching out to me [:e-mail:](sunnyxili2019@gmail.com)
+- Reaching out to me [Email](sunnyxili2019@gmail.com) :mailbox_with_mail:
 
 <!--
 **SUNNYXILI/SUNNYXILI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
