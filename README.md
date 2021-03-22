@@ -12,7 +12,7 @@ Data analyst with Programming, Machine Learning, Statistics, and Visualization s
 -Sharing updates on [LinkedIn](http://www.linkedin.com/in/sunnyxili2019) 💼
 
                            |  **Find me around the web 🌎:**
--Sharing updates on [LinkedIn](http://www.linkedin.com/in/sunnyxili2019) 💼   |---
+<img src="/images/output/video1.gif" width="180" height="250"/>|---
                            |  - Sharing updates on [LinkedIn](http://www.linkedin.com/in/sunnyxili2019) 💼
 
 <!--
