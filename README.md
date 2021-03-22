@@ -1,7 +1,7 @@
 
 _**“The most valuable commodity I know of is information.”**_
 
-![gifphoto/01-pinssm.gif](gifphoto/01-pinssm.gif=100x20)
+![gifphoto/01-pinssm.gif](gifphoto/01-pinssm.gif = 250x250)
 
  # Hi, I'm Sunny :cherry_blossom::wave::computer: 
 
