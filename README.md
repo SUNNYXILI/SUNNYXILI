@@ -14,10 +14,10 @@ Data analyst with Programming, Machine Learning, Statistics, and Visualization s
 
 
 
-### Connect with me
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"(http://www.linkedin.com/in/sunnyxili2019)
+### Find me around the web 🌎:
+Sharing updates on (http://www.linkedin.com/in/sunnyxili2019) 💼
+
+
 
 <!--
 **SUNNYXILI/SUNNYXILI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
