@@ -1,13 +1,14 @@
 
 _**“The most valuable commodity I know of is information.”**_
 
-**Hi, I'm Sunny** :cherry_blossom::wave::computer: 
+## Hi, I'm Sunny :cherry_blossom::wave::computer: 
 
 
 Data analyst with Programming, Machine Learning, Statistics, and Visualization skills;  I am currently studying Master’s degree in Business Analytics (concentrate on data analytics). My naturally excellent skills in mathematics and bachelor’s degree in Statistics and Quantitative Modeling provided me a solid foundation and a good intuition in Statistical Analysis and Machine Learning; also, that was my started time (2016) to study Programming Language C++, Regression Analysis, Quantitative Decision Making and other professional skills in data analysis. The passion for data lets me choose Business Analytics Program without any hesitation. 
 
 
-<img src="gifphoto/01-pinssm.gif" width="200" height="250"/>### Find me around the web 🌎:
+### Find me around the web 🌎:
+___
 -Sharing updates on [LinkedIn](http://www.linkedin.com/in/sunnyxili2019) 💼
 
 
